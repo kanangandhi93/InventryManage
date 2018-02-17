@@ -1,9 +1,0 @@
-E:\Inventry\Inventry\bin\Debug\Inventry.exe.config
-E:\Inventry\Inventry\bin\Debug\Inventry.exe
-E:\Inventry\Inventry\bin\Debug\Inventry.pdb
-E:\Inventry\Inventry\obj\Debug\Inventry.csprojResolveAssemblyReference.cache
-E:\Inventry\Inventry\obj\Debug\Inventry.frmDashboard.resources
-E:\Inventry\Inventry\obj\Debug\Inventry.Properties.Resources.resources
-E:\Inventry\Inventry\obj\Debug\Inventry.csproj.GenerateResource.Cache
-E:\Inventry\Inventry\obj\Debug\Inventry.exe
-E:\Inventry\Inventry\obj\Debug\Inventry.pdb

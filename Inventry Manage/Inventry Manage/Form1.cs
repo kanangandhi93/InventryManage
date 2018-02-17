@@ -8,13 +8,18 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Inventry
+namespace Inventry_Manage
 {
     public partial class frmDashboard : Form
     {
         public frmDashboard()
         {
             InitializeComponent();
+        }
+
+        private void frmDashboard_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }

@@ -1,0 +1,9 @@
+E:\Inventry\InventryManage\Inventry Manage\Inventry Manage\bin\Debug\Inventry Manage.exe.config
+E:\Inventry\InventryManage\Inventry Manage\Inventry Manage\obj\Debug\Inventry Manage.csprojResolveAssemblyReference.cache
+E:\Inventry\InventryManage\Inventry Manage\Inventry Manage\obj\Debug\Inventry_Manage.Properties.Resources.resources
+E:\Inventry\InventryManage\Inventry Manage\Inventry Manage\obj\Debug\Inventry Manage.csproj.GenerateResource.Cache
+E:\Inventry\InventryManage\Inventry Manage\Inventry Manage\bin\Debug\Inventry Manage.exe
+E:\Inventry\InventryManage\Inventry Manage\Inventry Manage\bin\Debug\Inventry Manage.pdb
+E:\Inventry\InventryManage\Inventry Manage\Inventry Manage\obj\Debug\Inventry_Manage.frmDashboard.resources
+E:\Inventry\InventryManage\Inventry Manage\Inventry Manage\obj\Debug\Inventry Manage.exe
+E:\Inventry\InventryManage\Inventry Manage\Inventry Manage\obj\Debug\Inventry Manage.pdb
